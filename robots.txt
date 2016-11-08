@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: 
-Sitemap:http://gyjunk.hitweb114.com/sitemap.xml
+Sitemap:http://ttjunk.hitweb114.com/sitemap.xml
 
 User-agent:Yeti
 Disallow: 
